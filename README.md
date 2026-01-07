@@ -2,6 +2,7 @@
 ### Bulk AI Image Generation Toolkit for Google Whisk
 
 Whisk Automator is a powerful Chrome Extension designed to automate the prompt submission process on **Whisk Automator**. It removes the manual work of entering prompts one by one, allowing for rapid, bulk image generation.
+
 [![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf)
 
 
@@ -77,4 +78,5 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
