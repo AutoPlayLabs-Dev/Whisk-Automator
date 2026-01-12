@@ -10,28 +10,28 @@ Whisk Automator is a powerful Chrome Extension designed to automate the prompt s
 
 ## ✨ Key Features
 
-* **⚡Bulk Image Generation:**
+* **Bulk Image Generation:**
  The core function that allows you to run unlimited text prompts to create hundreds of AI images at scale.
-* **⚡ True Batch Automation:**
+* **True Batch Automation:**
  Import hundreds of prompts directly or upload a `.txt` file. The extension processes your entire queue automatically while you work on other tasks.
-* **🖼️ Reference Image Support:**
+* **Reference Image Support:**
  Guide the AI with precision by uploading reference images for **Subject**, **Scene**, or **Style** directly through the automator.
-* **🌓 Modern Side Panel UI:**
+* **Modern Side Panel UI:**
  Features an eye-friendly interface integrated into a convenient Chrome Side Panel for easy access.
-* **⚙️ Advanced Customization:**
+* **Advanced Customization:**
     * Set custom image ratios (16:9, 9:16, 1:1).
     * Adjust the number of images generated per prompt (1–4).
     * Set custom wait times and retry logic for full queues.
-- **⏱️ Smart Throttling:** Adjustable delay settings to prevent browser crashes or rate-limiting.
-* **🖼️ AI Prompt Creator:**
+- **Smart Throttling:** Adjustable delay settings to prevent browser crashes or rate-limiting.
+* **AI Prompt Creator:**
  Includes a built-in assistant to help users craft or refine prompts for better image results.
-* **⚡ Library Download Manager:**
+* **Library Download Manager:**
  A centralized hub that allows you to view, manage, and download all your previous creations in one place.
-* **🖼️ ZIP File Export:**
+* **ZIP File Export:**
  Allows you to download an entire project, a specific batch of images, or recent videos as a single, organized .zip file.
-* **📝 Prompt Queue Manager:**
+* **Prompt Queue Manager:**
  Allows users to edit and manage a queue of multiple prompts, which the tool processes sequentially to generate images in bulk.
-* **📝Free Trial Available:**
+* **Free Trial Available:**
  Try basic features for free. Upgrade for unlimited prompts and auto-download capabilities.
 
 ## 🚀 Getting Started
@@ -80,6 +80,7 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
 
 
