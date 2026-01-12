@@ -10,32 +10,34 @@ Whisk Automator is a powerful Chrome Extension designed to automate the prompt s
 
 ## ✨ Key Features
 
+* **⚡Bulk Image Generation:**
+ The core function that allows you to run unlimited text prompts to create hundreds of AI images at scale.
 * **⚡ True Batch Automation:**
  Import hundreds of prompts directly or upload a `.txt` file. The extension processes your entire queue automatically while you work on other tasks.
-* **💾 Smart Auto-Download:**
- Never lose an image. Generated photos are instantly saved to your computer with smart file naming based on the prompt content.
 * **🖼️ Reference Image Support:**
  Guide the AI with precision by uploading reference images for **Subject**, **Scene**, or **Style** directly through the automator.
-* **🛠️ Dual Operating Modes:**
-    * **API Mode (v8.0+):** High-speed processing that can run in the background without needing the Whisk tab to be active.
-    * **Classic Mode:** A stable mouse-simulation mechanism used as a reliable backup.
 * **🌓 Modern Side Panel UI:**
- Features an eye-friendly **Dark Mode** interface integrated into a convenient Chrome Side Panel for easy access.
+ Features an eye-friendly interface integrated into a convenient Chrome Side Panel for easy access.
 * **⚙️ Advanced Customization:**
     * Set custom image ratios (16:9, 9:16, 1:1).
     * Adjust the number of images generated per prompt (1–4).
     * Set custom wait times and retry logic for full queues.
-* **🌐 Multilingual Support:**
- Fully supports both English and Vietnamese.
 - **⏱️ Smart Throttling:** Adjustable delay settings to prevent browser crashes or rate-limiting.
-- **📄 Naming System:** Files are saved using the prompt text as the filename for easy sorting.
+* **🖼️ AI Prompt Creator:**
+ Includes a built-in assistant to help users craft or refine prompts for better image results.
+* **⚡ Library Download Manager:**
+ A centralized hub that allows you to view, manage, and download all your previous creations in one place.
+* **🖼️ ZIP File Export:**
+ Allows you to download an entire project, a specific batch of images, or recent videos as a single, organized .zip file.
+* **📝 Prompt Queue Manager:**
+ Allows users to edit and manage a queue of multiple prompts, which the tool processes sequentially to generate images in bulk.
+* **📝Free Trial Available:**
+ Try basic features for free. Upgrade for unlimited prompts and auto-download capabilities.
 
 ## 🚀 Getting Started
 
 ### Installation
 1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf).
-<img src="assest/1-300x200.png" width="800" height="400" alt="App Screenshot">
-
 2. Pin the icon to your Chrome toolbar.
 3. Open [Google Labs Whisk](https://labs.google/whisk).
 
@@ -78,5 +80,6 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
 
