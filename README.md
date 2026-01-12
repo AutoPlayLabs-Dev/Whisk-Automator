@@ -3,7 +3,7 @@
 
 Whisk Automator is a powerful Chrome Extension designed to automate the prompt submission process on **Whisk Automator**. It removes the manual work of entering prompts one by one, allowing for rapid, bulk image generation.
 
-[![Add to Extension](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf)
+[![Add to Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf)
 
 ## ✨ Key Features
 
@@ -76,6 +76,7 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
 
 
