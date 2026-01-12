@@ -1,12 +1,9 @@
 # 🎨 Whisk Automator
-### Bulk AI Image Generation Toolkit for Google Whisk
+### Hundreds of Bulk AI Image Generation Tool
 
 Whisk Automator is a powerful Chrome Extension designed to automate the prompt submission process on **Whisk Automator**. It removes the manual work of entering prompts one by one, allowing for rapid, bulk image generation.
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf)
-
-
-<img src="assest/IMG-20251125-WA0009.jpg" width="400" height="400" alt="App Screenshot">
+[![Add to Extension](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://chromewebstore.google.com/detail/whisk-automator-bulk-ai-i/fggolibbgjecabhcigloidnnbhfokmkf)
 
 ## ✨ Key Features
 
@@ -64,14 +61,13 @@ To allow the **Auto-Download** feature to work without pop-ups:
 
 **Please read this carefully before using the extension:**
 
-1. **Not Affiliated with Google:** Whisk Automator is an **unofficial** extension. It is not affiliated with, maintained, authorized, or endorsed by Google Labs or any of its affiliates.
-2. **Use at Your Own Risk:** 
+1. **Use at Your Own Risk:** 
 This tool is provided "as is" without any warranties. The developers are not responsible for any issues, data loss, or account restrictions that may arise from using this automation.
-3. **Terms of Service:**
+2. **Terms of Service:**
  Users are responsible for complying with the [Google Terms of Service](https://policies.google.com/terms). We recommend using this tool responsibly and avoiding excessive automation that could be flagged as "bot-like" behavior.
-4. **Experimental Nature:**
- Google Whisk is an experimental platform. Changes to their website may cause the automator to stop working temporarily. We do our best to provide updates, but continuous functionality is not guaranteed.
-5. **No Professional Advice:**
+3. **Experimental Nature:**
+ Whisk is an experimental platform. Changes to their website may cause the automator to stop working temporarily. We do our best to provide updates, but continuous functionality is not guaranteed.
+4. **No Professional Advice:**
  The AI-generated outputs are for creative and experimental purposes only and should not be relied upon for legal, medical, or professional advice.
 
 ## 🔗 Links
@@ -80,6 +76,7 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
 
 
