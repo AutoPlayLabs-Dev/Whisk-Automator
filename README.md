@@ -9,8 +9,6 @@ Whisk Automator is a powerful Chrome Extension designed to automate the prompt s
 
 * **Bulk Image Generation:**
  The core function that allows you to run unlimited text prompts to create hundreds of AI images at scale.
-* **True Batch Automation:**
- Import hundreds of prompts directly or upload a `.txt` file. The extension processes your entire queue automatically while you work on other tasks.
 * **Reference Image Support:**
  Guide the AI with precision by uploading reference images for **Subject**, **Scene**, or **Style** directly through the automator.
 * **Modern Side Panel UI:**
@@ -30,6 +28,8 @@ Whisk Automator is a powerful Chrome Extension designed to automate the prompt s
  Allows users to edit and manage a queue of multiple prompts, which the tool processes sequentially to generate images in bulk.
 * **Free Trial Available:**
  Try basic features for free. Upgrade for unlimited prompts and auto-download capabilities.
+* **For Professionals & Creators:**  Perfect for stock, social media, marketing, e-commerce, and design projects.
+
 
 ## 🚀 Getting Started
 
@@ -76,6 +76,7 @@ This tool is provided "as is" without any warranties. The developers are not res
 
 ---
 *Maintained by AutoPlayLabs*
+
 
 
 
